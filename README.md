@@ -1,2 +1,5 @@
 # Python_Five_Questions_Lab2
 Five Questions Game
+
+
+Just 5 questions The game 20 questions is a game where an answerer chooses a subject (it is usually a person, place or object) and a guesser gets 20 "Yes or No" questions to figure out what the answerer is thinking of. For extra credit, you are going to write a program that acts as the guesser in a similar game where only 5 questions are used. Use 5_questions.py.  For full credit you’re program must:  Be able to guess at least 12 different objects or people (to make things easier, they can all be of the same “category” of things; e.g. artists or US states) Draw out the decision tree to get to each guessable object or person. All the questions should be answerable with either “yes” or “no”. Make sure that it is possible to correctly guess all 10 objects: since you have less questions than objects, how can you do this? Have the computer run through your decision tree. When it finds an answer, it should print to the user what it's guess is.
